@@ -34,7 +34,6 @@
     }
 
     .videos-sugeridos {
-        max-width: 817px;
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
@@ -43,11 +42,6 @@
     .videos-sugeridos .video {
         margin-inline: 10px;
         width: auto;
-    }
-    .videos-sugeridos .video:hover {
-        transform: none;
-        position: static;
-        background-color: #ececec;
     }
 }
 
